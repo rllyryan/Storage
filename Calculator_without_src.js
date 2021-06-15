@@ -1,3 +1,7 @@
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.3.2.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.3.2.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.2.0.min.js" crossorigin="anonymous"></script>
+
 <div class="bk-root" id="aa0d9506-d27a-4094-89e9-629b9e61e6fc" data-root-id="3608"></div>
 
 <script type="text/javascript">
